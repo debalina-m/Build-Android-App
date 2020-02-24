@@ -1,0 +1,44 @@
+type Odysse @model {  
+  ParkName: String
+	HuntName: String!
+	Landmark: Int
+	ItemClass: String
+	Genus: String
+	Species: String
+	Description: String
+	Hints: String
+	GPSCoordLat: Float
+	GPSCoordLong: Float
+	Image: String
+	MinAltitude: Int
+	MaxAltitude: Int
+	StartDate: AWSDateTime
+	EndDate: AWSDateTime
+	RarityScore: Int
+	DifficultyLevel: String
+	Endemic: Int
+	Scavenger: Int
+	Predator: Int
+	Decomposer: Int
+	CarbonHungry: Int
+	Flowering: Int }
+
+type UserHistory @model {
+  username: String!
+	GameID: String
+	ParkName: String
+	GamePlayedOn: AWSDateTime
+	Level: Int
+	EventType: String
+	HuntName: String
+	HuntDate: AWSDateTime
+	Success: String
+	Image: String
+}
+
+type Achievements @model {
+  ItemCombo: String!
+	AchievementName: String
+	AchievementText: String
+	Image: String
+}
