@@ -8,14 +8,15 @@
 ## Proposal
 
 Are you a nature enthusiast? Hiking on the trails, smelling the trees, listening to the chirp of the birds are the perfect way of your relaxation? Do you like exploring outdoors, but sometimes little hesitant to travel to a new place on your own?
-Then Odyssey is for you. It’s an app-based experience for nature scavenger hunt, where you can identify local species, and iconic landscapes, all while off the grid. No matter whether you are a teenager, a senior citizen, a thrill seeker.. the app comes with your level of comfort. And the best thing is you can play alone or with your buddies. So install Odyssee the next time you are visiting a national park and take the challenge.
+Then Odyssey is for you. It’s an app-based experience for nature scavenger hunt, where you can identify local species, and iconic landscapes, all while off the grid. No matter whether you are a teenager, a senior citizen, a thrill seeker.. the app comes with your level of comfort. And the best thing is you can play alone or with your buddies. So install Odyssee the next time you are visiting a national park and take the challenge.  
+**The initial phase is being launched for Yosemite National Park.
 
 ## Problem Statement
 
-Interaction with nature delivers measurable benefits to physical health, mental health, cognitive ability and social cohesion. It is also associated with conservation behavior such as recycling.
-US National Parks are visited more than 300M times per year, but many non-visitors cite too little info about what to do inside and a preference for electronic activities as reasons for not visiting more.
+Interaction with nature delivers measurable benefits to physical health, mental health, cognitive ability and social cohesion. It is also associated with conservation behavior such as recycling.  
+US National Parks are visited more than 300M times per year, but many non-visitors cite too little info about what to do inside and a preference for electronic activities as reasons for not visiting more.  
 In addition, only 40% of Americans consider enjoying nature an important aspect of a vacation.
-So the objective of this Odyssee app
+So the objective of this Odyssee app is to 
 
 ## Target Users
 
