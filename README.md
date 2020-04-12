@@ -15,7 +15,7 @@ https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-
 ```
 
 ![](https://placehold.it/150/ffffff/006400?text=ODYSSEE)  
-![](https://placehold.it/50/ffffff/008000?text=Gamifying) ![](https://placehold.it/50/ffffff/008000?text=exploration) ![](https://placehold.it/50/ffffff/008000?text=of) ![](https://placehold.it/50/ffffff/008000?text=the) ![](https://placehold.it/50/ffffff/008000?text=natural) ![](https://placehold.it/50/ffffff/008000?text=world)
+![](https://placehold.it/150/ffffff/008000?text=Gamifying) ![](https://placehold.it/150/ffffff/008000?text=exploration) ![](https://placehold.it/50/ffffff/008000?text=of) ![](https://placehold.it/50/ffffff/008000?text=the) ![](https://placehold.it/120/ffffff/008000?text=natural) ![](https://placehold.it/100/ffffff/008000?text=world)
 
 # ODYSSEE  
 ### An app-based scavenger hunt in Yosemite National Park
