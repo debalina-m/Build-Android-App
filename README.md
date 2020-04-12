@@ -14,7 +14,8 @@ https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-
 # text in gray
 ```
 
-![](https://placehold.it/150/ffffff/006400?text=ODYSSEE)```diff
+![](https://placehold.it/150/ffffff/006400?text=ODYSSEE)
+```diff
 + Gamifying Exploration of the Natural World
 ```
 
