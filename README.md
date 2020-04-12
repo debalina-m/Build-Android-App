@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/odysseeLogo.png" alt="Odyssee" width="250px" height="50px">
+<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/odysseeLogo.png" alt="Odyssee" width="250px" height="50px">
 
 ```diff
 + Gamifying exploration of the natural world
@@ -7,29 +7,15 @@
 
 ## Proposal
 
-An app-based scavenger hunt in Yosemite promoting connectedness with nature.
+Are you a nature enthusiast? Hiking on the trails, smelling the trees, listening to the chirp of the birds are the perfect way of your relaxation? Do you like exploring outdoors, but sometimes little hesitant to travel to a new place on your own?
+Then Odyssey is for you. It’s an app-based experience for nature scavenger hunt, where you can identify local species, and iconic landscapes, all while off the grid. No matter whether you are a teenager, a senior citizen, a thrill seeker.. the app comes with your level of comfort. And the best thing is you can play alone or with your buddies. So install Odyssee the next time you are visiting a national park and take the challenge.
 
 ## Problem Statement
 
-When liquid herbicides are used in agriculture, much of the active chemical is wasted
-(either from over-spray, or application to non-targeted foliage.) Currently, several firms
-are developing systems which use visual weed recognition to limit spray application only
-to targeted species.
-(e.g. https://www.gearbrain.com/weed-killing-robots-reduce-pesticides-2593338605.html
-
-Proposal is to develop a hand-held dispenser which will identify weeds and dispense
-appropriate (likely granular) herbicides appropriate to the targeted species. The
-intent is to supply this weed recognition technologies to small-holder farmers in lesser
-developed countries.
-
-This would give advanced agricultural technology to poor farmers in lesser developed
-countries. If linked to cell phone (or other communication technologies), this could also
-provide large-area surveillance of weed growth, invasive weed spread, and possibly
-even insect populations to national and international agriculture agencies.
-A significant secondary benefit of the data link would be that a central agriculture
-agency (e.g. government, university, or NGO) Would receive the data and could provide
-information and advice to the small-holder farmers- a “Virtual Agricultural Extension
-Agent”
+Interaction with nature delivers measurable benefits to physical health, mental health, cognitive ability and social cohesion. It is also associated with conservation behavior such as recycling.
+US National Parks are visited more than 300M times per year, but many non-visitors cite too little info about what to do inside and a preference for electronic activities as reasons for not visiting more.
+In addition, only 40% of Americans consider enjoying nature an important aspect of a vacation.
+So the objective of this Odyssee app
 
 ## Target Users
 
@@ -45,6 +31,8 @@ While this app should be suitable for nearly anyone visiting a park with a smart
 Here is a quick [demo](https://github.com/debalina-m/Build-Android-App/blob/master/Odyssee%20Capstone.mp4)
 
 ## Data
+
+<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/data.png" alt="OdysseeData" width="250px" height="50px">
 - Most of the data used would be generated within the project itself
 - Reference Weed Identification images
 - UC weed photo library
