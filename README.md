@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/odysseeLogo.png" alt="Odyssee" width="300px" height="120px">
+<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/odysseeLogo.png" alt="Odyssee" width="300px" height="100px">
 
 
 https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file
