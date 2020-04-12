@@ -1,5 +1,6 @@
 
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+) # ODYSSEE <img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/odyssee_logo.png" alt="Scriboto Robot" width="40px" height="40px">
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
+# ODYSSEE <img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/odyssee_logo.png" alt="Scriboto Robot" width="40px" height="40px">
 
 
 https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file
