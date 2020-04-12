@@ -40,59 +40,15 @@ While this app should be suitable for nearly anyone visiting a park with a smart
 -![#c5f015](https://placehold.it/8/32CD32/000000?text=+)  If you face any issue please do not hesitate to contact us @ **appodyssee@gmail.com**
 
 ## Demo
-Here is a quick [demo](https://github.com/debalina-m/Build-Android-App/blob/master/Odyssee%20Capstone.mp4)
+Here is a quick [demo](https://github.com/debalina-m/Build-Android-App/blob/master/Odyssee%20Capstone.mp4) of Odyssee
 
 ## Data
 
-<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/data.png" alt="OdysseeData" width="150px" height="120px">
+<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/data.png" alt="OdysseeData" width="300px" height="200px">
 - Most
-
-## Related research/products
-
-- Wheeled “smart weeders” noted above
-- Developing world applications of Raspberry Pi
 
 ### Implementation notes:
 - May be able to generate our own images by photographing sprouting seeds (i.e. use various
 beans, peas, and flower seeds as sample “crop” and “weed” plants as a training example)
 - May identify low cost peristaltic pumps for applying liquid agents (example below)
 
-
-https://github.com/debalina-m/Build-Android-App/blob/master/odysseeLogo1.png
-
-https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file
-
-![#f03c15](https://placehold.it/100/ffffff/ff0000?text=hello)
-![](https://placehold.it/100/ffffff/008000?text=ODYSSEE)
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `hi`
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015 mnkjojoo jkj`
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
-
-
-```diff
-- text in red
-+ Gamifying exploration of the natural world
-! text in orange
-# text in gray
-```
-
-![](https://placehold.it/200/ffffff/006400?text=**ODYSSEE**)
-```diff
-+ Gamifying Exploration of the Natural World
-```
-
-# ODYSSEE  
-### An app-based scavenger hunt in Yosemite National Park
-
-
-
-
-===================
-# Scriboto <img src="https://github.com/timothyjhurt/scriboto-app/blob/master/scriboto-app/static/scriboto_logo.png" alt="Scriboto Robot" width="40px" height="40px">
-Alpha testing the Scriboto App
-
-### Thank you for your interest in Scriboto! Scriboto is a Data Science application being developed to save Doctors time, and improve Doctor-Patient relationships.
-
-*Below are the instructions you should follow to install and launch Scriboto from your local computer. If you have any issues please do not hesitate to contact us at scriboto@gmail.com*
-
-<br/>
