@@ -1,3 +1,8 @@
+# ODYSSEE <img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/odyssee_logo.png" alt="Scriboto Robot" width="40px" height="40px">
+
+@@ ODYSSEE @@
+
+
 https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file
 
 ![#f03c15](https://placehold.it/100/ffffff/ff0000?text=hello)
