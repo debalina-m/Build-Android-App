@@ -26,11 +26,11 @@ So install Odyssee the next time you are visiting a national park and take the c
 ## Target Users
 
 While this app should be suitable for nearly anyone visiting a park with a smartphone, here are few specific use cases:
-![#c5f015](https://placehold.it/8/008000/000000?text=+)  Friends Reunion
-![#c5f015](https://placehold.it/8/008000/000000?text=+)  Educational Excursion
-![#c5f015](https://placehold.it/8/008000/000000?text=+)  Families Reconnecting
-![#c5f015](https://placehold.it/8/008000/000000?text=+)  People Needing Instruction
-![#c5f015](https://placehold.it/8/008000/000000?text=+)  Gamers Needing a nudge
+![#c5f015](https://placehold.it/8/008000/000000?text=+)  Friends Reunion  
+![#c5f015](https://placehold.it/8/008000/000000?text=+)  Educational Excursion  
+![#c5f015](https://placehold.it/8/008000/000000?text=+)  Families Reconnecting  
+![#c5f015](https://placehold.it/8/008000/000000?text=+)  People Needing Instruction  
+![#c5f015](https://placehold.it/8/008000/000000?text=+)  Gamers Needing a nudge  
 
 ## How to Use
 
