@@ -1,4 +1,4 @@
-![](https://placehold.it/200/ffffff/006400?text=ODYSSEE<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/odyssee_logo.png" alt="Scriboto Robot" width="40px" height="40px">) 
+![](https://placehold.it/200/ffffff/006400?<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/odyssee_logo.png" alt="Scriboto Robot" width="40px" height="40px">) 
 
 # ODYSSEE <img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/odyssee_logo.png" alt="Scriboto Robot" width="40px" height="40px">
 
