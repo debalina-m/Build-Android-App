@@ -7,7 +7,7 @@
 
 ## Proposal
 
-- ![#c5f015](https://placehold.it/5/c5f015/000000?text=+) Are you a nature enthusiast? Hiking on the trails, smelling the trees, listening to the chirp of the birds are the perfect way of your relaxation? Do you like exploring outdoors, but sometimes little hesitant to travel to a new place on your own?
+![#c5f015](https://placehold.it/8/008000/000000?text=+) Are you a nature enthusiast? Hiking on the trails, smelling the trees, listening to the chirp of the birds are the perfect way of your relaxation? Do you like exploring outdoors, but sometimes little hesitant to travel to a new place on your own?
 Then Odyssey is for you. It’s an app-based experience for nature scavenger hunt, where you can identify local species, and iconic landscapes, all while off the grid. No matter whether you are a teenager, a senior citizen, a thrill seeker.. the app comes with your level of comfort. And the best thing is you can play alone or with your buddies. So install Odyssee the next time you are visiting a national park and take the challenge.  
 **The initial phase is being launched for Yosemite National Park.
 
