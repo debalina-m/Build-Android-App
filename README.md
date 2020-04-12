@@ -14,7 +14,8 @@ https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-
 # text in gray
 ```
 
-
+![](https://placehold.it/150/ffffff/006400?text=ODYSSEE)  
+![](https://placehold.it/150/ffffff/006400?text=   -Gamifying exploration of the natural world)
 
 # ODYSSEE  
 ### An app-based scavenger hunt in Yosemite National Park
