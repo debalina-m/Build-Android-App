@@ -26,11 +26,6 @@ So install Odyssee the next time you are visiting a national park and take the c
 ## Target Users
 
 While this app should be suitable for nearly anyone visiting a park with a smartphone, here are few specific use cases:
-![#c5f015](https://placehold.it/8/008000/000000?text=+)  Friends Reunion  
-![#c5f015](https://placehold.it/8/008000/000000?text=+)  Educational Excursion  
-![#c5f015](https://placehold.it/8/008000/000000?text=+)  Families Reconnecting  
-![#c5f015](https://placehold.it/8/008000/000000?text=+)  People Needing Instruction  
-![#c5f015](https://placehold.it/8/008000/000000?text=+)  Gamers Needing a nudge  
 ```diff
 + Friends' Reunion  
 + Educational Excursion  
@@ -47,16 +42,7 @@ Here is a quick [demo](https://github.com/debalina-m/Build-Android-App/blob/mast
 ## Data
 
 <img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/data.png" alt="OdysseeData" width="150px" height="120px">
-- Most of the data used would be generated within the project itself
-- Reference Weed Identification images
-- UC weed photo library
-- Weed Alert (need to verify images are open source)
-- Weed Science Society of America
-- Possible data science techniques
-- CNN (for weed recognition/classification within the unit)
-- Pub/Sub data handling (MQTT)
-- General IoT activity of edge sensors feeding central analytic systems.
-- Reporting and visualization (D3 (or C3 or Chart.js)) visualizations
+- Most
 
 ## Related research/products
 
