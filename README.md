@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/odysseeLogo.png" alt="Odyssee" width="300px" height="50px">
+<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/odysseeLogo.png" alt="Odyssee" width="250px" height="50px">
 
 https://github.com/debalina-m/Build-Android-App/blob/master/odysseeLogo1.png
 
