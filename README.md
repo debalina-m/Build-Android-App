@@ -42,7 +42,7 @@ While this app should be suitable for nearly anyone visiting a park with a smart
 ## How to Use
 
 ## Demo
-Here is a quick [demo](https://github.com/debalina-m/W251/blob/master/HW12/aus_file_list.txt)
+Here is a quick [demo](https://github.com/debalina-m/Build-Android-App/blob/master/Odyssee%20Capstone.mp4)
 
 ## Data
 - Most of the data used would be generated within the project itself
