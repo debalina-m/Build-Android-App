@@ -1,5 +1,6 @@
 
 <img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/odysseeLogo.png" alt="Odyssee" width="250px" height="50px">
+
 ```diff
 + Gamifying exploration of the natural world
 ```
