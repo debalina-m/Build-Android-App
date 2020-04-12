@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/odysseeLogo.png" alt="Odyssee" width="200px" height="200px">
+<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/odysseeLogo.png" alt="Odyssee" width="250px" height="50px">
 
 ```diff
 + Gamifying exploration of the natural world
@@ -32,7 +32,7 @@ Here is a quick [demo](https://github.com/debalina-m/Build-Android-App/blob/mast
 
 ## Data
 
-<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/data.png" alt="OdysseeData" width="250px" height="50px">
+<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/data.png" alt="OdysseeData" width="150px" height="120px">
 - Most of the data used would be generated within the project itself
 - Reference Weed Identification images
 - UC weed photo library
