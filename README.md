@@ -9,7 +9,7 @@ https://placehold.it/150/ffffff/ff0000?text=hello
 
 ```diff
 - text in red
-+ text in green
++ I like odyssee
 ! text in orange
 # text in gray
 ```
