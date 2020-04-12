@@ -31,6 +31,13 @@ While this app should be suitable for nearly anyone visiting a park with a smart
 ![#c5f015](https://placehold.it/8/008000/000000?text=+)  Families Reconnecting  
 ![#c5f015](https://placehold.it/8/008000/000000?text=+)  People Needing Instruction  
 ![#c5f015](https://placehold.it/8/008000/000000?text=+)  Gamers Needing a nudge  
+```diff
++ Friends' Reunion  
++ Educational Excursion  
++ Families Reconnecting 
++ People Needing Instruction  
++ Gamers Needing a nudge  
+```
 
 ## How to Use
 
