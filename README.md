@@ -1,5 +1,8 @@
 
 <img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/odysseeLogo.png" alt="Odyssee" width="250px" height="50px">
+```diff
++ Gamifying exploration of the natural world
+```
 
 https://github.com/debalina-m/Build-Android-App/blob/master/odysseeLogo1.png
 
@@ -14,7 +17,7 @@ https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-
 
 ```diff
 - text in red
-+ I like odyssee
++ Gamifying exploration of the natural world
 ! text in orange
 # text in gray
 ```
