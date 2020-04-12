@@ -9,7 +9,8 @@
 
 Are you a nature enthusiast? Hiking on the trails, smelling the trees, listening to the chirp of the birds are the perfect way of your relaxation? Do you like exploring outdoors, but sometimes little hesitant to travel to a new place on your own?
 ```diff
-Then Odyssey is for you. It’s an app-based experience for nature scavenger hunt, where you can identify local species, and iconic landscapes, all while off the grid. The app comes with your choice of difficulty level and option to play alone or in group.
++ Then Odyssey is for you. It’s an app-based experience for nature scavenger hunt, where you can identify local species, and iconic landscapes, all while off the grid.
+The app comes with your choice of difficulty level and option to play alone or in group.
 ```
 So install Odyssee the next time you are visiting a national park and take the challenge.  
 ![#c5f015](https://placehold.it/8/008000/000000?text=+)  The initial phase is being launched for **Yosemite National Park**.
