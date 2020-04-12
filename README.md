@@ -1,5 +1,5 @@
 
-<img src="https://github.com/debalina-m/Build-Android-App/blob/master/odysseeLogo1.png" alt="Odyssee" width="300px" height="80px">
+<img src="https://github.com/debalina-m/Build-Android-App/blob/master/odysseeLogo1.png" alt="Odyssee" width="300px" height="50px">
 
 
 https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file
