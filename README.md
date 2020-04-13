@@ -4,7 +4,7 @@
 ```diff
 + Gamifying exploration of the natural world
 ```
-<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/SplashScreen.png" alt="AppScreen" width="250px" height="50px">
+<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/SplashScreen.png" alt="AppScreen" width="50px" height="350px">
 
 ## Proposal
 
@@ -35,12 +35,12 @@ While this app should be suitable for nearly anyone visiting a park with a smart
 ```
 
 ## Features Odysse Offers  
-![](https://placehold.it/8/32CD32/000000?text=+)  An immersive experience with dynamic trail maps and loc-based augmentation
-![](https://placehold.it/8/32CD32/000000?text=+)  Curated list of hunt items [based on historical importance, medical or ancient uses]
-![](https://placehold.it/8/32CD32/000000?text=+)  Collectable ‘cards’ for discovered items
-![](https://placehold.it/8/32CD32/000000?text=+)  User score system based on difficulty and rarity of found items
-![](https://placehold.it/8/32CD32/000000?text=+)  Ability to join a ‘herd’, collaborate and compete with friends
-![](https://placehold.it/8/32CD32/000000?text=+)  Easter-egg achievements
+![](https://placehold.it/8/32CD32/000000?text=+)  An immersive experience with dynamic trail maps and loc-based augmentation  
+![](https://placehold.it/8/32CD32/000000?text=+)  Curated list of hunt items [based on historical importance, medical or ancient uses]  
+![](https://placehold.it/8/32CD32/000000?text=+)  Collectable ‘cards’ for discovered items  
+![](https://placehold.it/8/32CD32/000000?text=+)  User score system based on difficulty and rarity of found items  
+![](https://placehold.it/8/32CD32/000000?text=+)  Ability to join a ‘herd’, collaborate and compete with friends  
+![](https://placehold.it/8/32CD32/000000?text=+)  Easter-egg achievements  
 
 ## How to Use  
 ![](https://placehold.it/8/32CD32/000000?text=+)  Download the APK fie from [here](https://github.com/debalina-m/Build-Android-App/blob/master/Odyssee%20Capstone.mp4) to your android phone.  
@@ -67,5 +67,5 @@ Here is a quick [demo](https://github.com/debalina-m/Build-Android-App/blob/mast
 ![](https://placehold.it/8/32CD32/000000?text=+) Geolocating hot-spots for species [“keep your eyes peeled, there are a lot of black-tailed deer in this area”]  
 ![](https://placehold.it/8/32CD32/000000?text=+) Gray out items from list that are out of season  
 ![](https://placehold.it/8/32CD32/000000?text=+) Selective data augmentation by image type  
- - A pinecone may appear in any orientation but a deer or tree won’t appear upside down
+- A pinecone may appear in any orientation but a deer or tree won’t appear upside down
 
