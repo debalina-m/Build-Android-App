@@ -13,7 +13,7 @@ Are you a nature enthusiast? Hiking on the trails, smelling the trees, listening
 + It’s an app-based experience for nature scavenger hunt, where you can identify local species all while off the grid.
 + The app comes with your choice of difficulty level and option to play alone or in group.
 ```  
-![](https://placehold.it/10/32CD32/000000?text=+)     The initial phase is being launched for **Yosemite National Park**.
+![](https://placehold.it/8/32CD32/000000?text=+)     The initial phase is being launched for **Yosemite National Park**.
 
 ## Problem Statement
 
@@ -33,6 +33,14 @@ While this app should be suitable for nearly anyone visiting a park with a smart
 + Gamers Needing a nudge  
 ```
 
+## Features Odysse Offers  
+![](https://placehold.it/8/32CD32/000000?text=+)  An immersive experience with dynamic trail maps and loc-based augmentation
+![](https://placehold.it/8/32CD32/000000?text=+)  Curated list of hunt items [based on historical importance, medical or ancient uses]
+![](https://placehold.it/8/32CD32/000000?text=+)  Collectable ‘cards’ for discovered items
+![](https://placehold.it/8/32CD32/000000?text=+)  User score system based on difficulty and rarity of found items
+![](https://placehold.it/8/32CD32/000000?text=+)  Ability to join a ‘herd’, collaborate and compete with friends
+![](https://placehold.it/8/32CD32/000000?text=+)  Easter-egg achievements
+
 ## How to Use  
 ![](https://placehold.it/8/32CD32/000000?text=+)  Download the APK fie from [here](https://github.com/debalina-m/Build-Android-App/blob/master/Odyssee%20Capstone.mp4) to your android phone.  
 ![](https://placehold.it/8/32CD32/000000?text=+)  Install and launch the app.  
@@ -41,16 +49,6 @@ While this app should be suitable for nearly anyone visiting a park with a smart
 ## Demo
 Here is a quick [demo](https://github.com/debalina-m/Build-Android-App/blob/master/Odyssee%20Capstone.mp4) of Odyssee
 
-## Features Odysse Offers  
-```diff
-+ An immersive experience with dynamic trail maps and loc-based augmentation
-+ Curated list of hunt items [based on historical importance, medical or ancient uses]
-+ Collectable ‘cards’ for discovered items
-+ User score system based on difficulty and rarity of found items
-+ Ability to join a ‘herd’, collaborate and compete with friends
-+ Easter-egg achievements
-```
-
 ## Data
 
 ![](https://placehold.it/8/32CD32/000000?text=+) Data taken from the more recent iNaturalist sets [2019](http://www.vision.caltech.edu/~gvanhorn/datasets/inaturalist/fgvc6_competition/) and [2018](http://www.vision.caltech.edu/~gvanhorn/datasets/inaturalist/fgvc5_competition/)  
@@ -58,27 +56,15 @@ Here is a quick [demo](https://github.com/debalina-m/Build-Android-App/blob/mast
 <img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/data.png" alt="OdysseeData" width="700px" height="350px">
 
 ## Implementation Approach
-- May be able to generate our own images by photographing sprouting seeds (i.e. use various
-beans, peas, and flower seeds as sample “crop” and “weed” plants as a training example)
-- May identify low cost peristaltic pumps for applying liquid agents (example below)
+![](https://placehold.it/8/32CD32/000000?text=+) 
 
 
 ## Future Roadmap  
+![](https://placehold.it/8/32CD32/000000?text=+) Field Testing  
 ![](https://placehold.it/8/32CD32/000000?text=+) Add more parks
-![](https://placehold.it/8/32CD32/000000?text=+) Expansion of hunts 
- - e.g. wildflower expansion released in spring)  
-![](https://placehold.it/8/32CD32/000000?text=+) Geolocating hot-spots for species
- - [“keep your eyes peeled, there are a lot of black-tailed deer in this area”]  
+![](https://placehold.it/8/32CD32/000000?text=+) Expansion of hunts (e.g. wildflower expansion released in spring)  
+![](https://placehold.it/8/32CD32/000000?text=+) Geolocating hot-spots for species [“keep your eyes peeled, there are a lot of black-tailed deer in this area”]  
 ![](https://placehold.it/8/32CD32/000000?text=+) Gray out items from list that are out of season  
 ![](https://placehold.it/8/32CD32/000000?text=+) Selective data augmentation by image type  
  - A pinecone may appear in any orientation but a deer or tree won’t appear upside down
-
-Field testing!
-Geolocating hot-spots for species 
-Useful for National Parks Services and can add features to gameplay
-[“keep your eyes peeled, there are a lot of black-tailed deer in this area”]
-Additional parks, expansion packs (e.g. wildflower expansion released in spring)
-Gray out items from list that are out of season
-Selective data augmentation by image type 
-A pinecone may appear in any orientation but a deer or tree won’t appear upside down
 
