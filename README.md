@@ -2,7 +2,7 @@
 <img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/odysseeLogo.png" alt="Odyssee" width="250px" height="50px">
 
 ```diff
-+ Gamifying exploration of the natural world
++ Gamifying exploration of the natural world; an app-based experience for nature scavenger hunt.
 ```
 <img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/SplashScreen.png" alt="AppScreen" width="160px" height="350px">
 
