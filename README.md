@@ -18,10 +18,10 @@ Are you a nature enthusiast? Hiking on the trails, smelling the trees, listening
 
 ## Problem Statement
 
-![](https://placehold.it/8/32CD32/000000?text=+)  Interaction with nature delivers measurable benefits to physical health, mental health, cognitive ability and social cohesion. It is also associated with conservation behavior such as recycling.  
-![](https://placehold.it/8/32CD32/000000?text=+)  US National Parks are visited more than 300M times per year, but many non-visitors cite too little info about what to do inside and a preference for electronic activities as reasons for not visiting more.  
-![](https://placehold.it/8/32CD32/000000?text=+)  In addition, only 40% of Americans consider enjoying nature an important aspect of a vacation.  
-![](https://placehold.it/8/32CD32/000000?text=+)  So the objective of this Odyssee app is help making the experience of visiting a national park more fun, exciting, challenging and memorable. 
+![](https://placehold.it/15/32CD32/000000?text=+)  Interaction with nature delivers measurable benefits to physical health, mental health, cognitive ability and social cohesion. It is also associated with conservation behavior such as recycling.  
+US National Parks are visited more than 300M times per year, but many non-visitors cite too little info about what to do inside and a preference for electronic activities as reasons for not visiting more.  
+In addition, only 40% of Americans consider enjoying nature an important aspect of a vacation.  
+So the objective of this Odyssee app is help making the experience of visiting a national park more fun, exciting, challenging and memorable. 
 
 ## Target Users
 
@@ -47,7 +47,7 @@ While this app should be suitable for nearly anyone visiting a park with a smart
 ![](https://placehold.it/8/32CD32/000000?text=+)  If you face any issue please do not hesitate to contact us @ **appodyssee@gmail.com**
 
 ## Demo
-Here is a quick [demo](https://github.com/debalina-m/Build-Android-App/blob/master/Odyssee%20Capstone.mp4) of Odyssee
+![](https://placehold.it/8/32CD32/000000?text=+)  Here is a quick [demo](https://github.com/debalina-m/Build-Android-App/blob/master/Odyssee%20Capstone.mp4) of Odyssee
 
 ## Data
 
