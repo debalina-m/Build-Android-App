@@ -16,12 +16,6 @@ Are you a nature enthusiast? Hiking on the trails, smelling the trees, listening
 ```  
 ![](https://placehold.it/8/32CD32/000000?text=+)     The initial phase is being launched for **Yosemite National Park**.
 
-## Problem Statement
-
-![](https://placehold.it/8/32CD32/000000?text=+)  Interaction with nature delivers measurable benefits to physical health, mental health, cognitive ability and social cohesion. It is also associated with conservation behavior such as recycling.  
-US National Parks are visited more than 300M times per year, but many non-visitors cite too little info about what to do inside and a preference for electronic activities as reasons for not visiting more.  
-In addition, only 40% of Americans consider enjoying nature an important aspect of a vacation.  
-So the objective of this Odyssee app is help making the experience of visiting a national park more fun, exciting, challenging and memorable. 
 
 ## Target Users
 
@@ -71,5 +65,7 @@ While this app should be suitable for nearly anyone visiting a park with a smart
 ![](https://placehold.it/8/32CD32/000000?text=+) Expansion of hunts (e.g. wildflower expansion released in spring)  
 ![](https://placehold.it/8/32CD32/000000?text=+) Geolocating hot-spots for species [“keep your eyes peeled, there are a lot of black-tailed deer in this area”]  
 ![](https://placehold.it/8/32CD32/000000?text=+) Gray out items from list that are out of season  
-![](https://placehold.it/8/32CD32/000000?text=+) Selective data augmentation by image type. [e.g. A pinecone may appear in any orientation but a deer or tree won’t appear upside down]
+![](https://placehold.it/8/32CD32/000000?text=+) Selective data augmentation by image type. [e.g. A pinecone may appear in any orientation but a deer or tree won’t appear upside down]  
+
+![](https://placehold.it/8/32CD32/000000?text=+) **To know more about this project, check this ** [presentation](https://docs.google.com/presentation/d/148Vju2J3AVcon4K7LI9AqTBW5iIzz3BeHbLvSsjoddU/edit#slide=id.p)
 
