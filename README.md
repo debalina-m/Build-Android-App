@@ -40,7 +40,7 @@ While this app should be suitable for nearly anyone visiting a park with a smart
 ## How to Use  
 ![](https://placehold.it/8/32CD32/000000?text=+)  Download the APK file from [here](https://github.com/debalina-m/Build-Android-App/blob/master/Odyssee%20Capstone.mp4) to your android phone.  
 ![](https://placehold.it/8/32CD32/000000?text=+)  Install and launch the app.  
-![](https://placehold.it/8/32CD32/000000?text=+)  If you face any issue please do not hesitate to contact us @ **appodyssee@gmail.com**
+![](https://placehold.it/8/f03c15/000000?text=+)  If you face any issue please do not hesitate to contact us @ **appodyssee@gmail.com**
 
 ## Demo
 ![](https://placehold.it/8/32CD32/000000?text=+)  Here is a quick [demo](https://youtu.be/QI2l8aPq1x4) of Odyssee
@@ -67,5 +67,5 @@ While this app should be suitable for nearly anyone visiting a park with a smart
 ![](https://placehold.it/8/32CD32/000000?text=+) Gray out items from list that are out of season  
 ![](https://placehold.it/8/32CD32/000000?text=+) Selective data augmentation by image type. [e.g. A pinecone may appear in any orientation but a deer or tree won’t appear upside down]  
 
-![](https://placehold.it/12/f03c15/000000?text=+) **To know more about this project, check this** [presentation](https://docs.google.com/presentation/d/148Vju2J3AVcon4K7LI9AqTBW5iIzz3BeHbLvSsjoddU/edit#slide=id.p)
+![](https://placehold.it/8/f03c15/000000?text=+) **To know more about this project, check this** [presentation](https://docs.google.com/presentation/d/148Vju2J3AVcon4K7LI9AqTBW5iIzz3BeHbLvSsjoddU/edit#slide=id.p)
 
