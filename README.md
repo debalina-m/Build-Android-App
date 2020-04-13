@@ -53,10 +53,9 @@ Here is a quick [demo](https://github.com/debalina-m/Build-Android-App/blob/mast
 
 ## Data
 
-![](https://placehold.it/8/32CD32/000000?text=+) Data taken from the more recent iNaturalist sets [2019](http://www.vision.caltech.edu/~gvanhorn/datasets/inaturalist/fgvc6_competition/) and [2018](http://www.vision.caltech.edu/~gvanhorn/datasets/inaturalist/fgvc5_competition/)  
+- ![](https://placehold.it/8/32CD32/000000?text=+) Data taken from the more recent iNaturalist sets [2019](http://www.vision.caltech.edu/~gvanhorn/datasets/inaturalist/fgvc6_competition/) and [2018](http://www.vision.caltech.edu/~gvanhorn/datasets/inaturalist/fgvc5_competition/)  
 ![](https://placehold.it/8/32CD32/000000?text=+) Webscraping for additional image data  
-<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/data.png" alt="OdysseeData" width="300px" height="200px">
-- Most
+<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/data.png" alt="OdysseeData" width="500px" height="350px">
 
 ## Implementation Approach:
 - May be able to generate our own images by photographing sprouting seeds (i.e. use various
