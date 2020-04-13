@@ -18,7 +18,7 @@ Are you a nature enthusiast? Hiking on the trails, smelling the trees, listening
 
 ## Problem Statement
 
-![](https://placehold.it/15/32CD32/000000?text=+)  Interaction with nature delivers measurable benefits to physical health, mental health, cognitive ability and social cohesion. It is also associated with conservation behavior such as recycling.  
+![](https://placehold.it/8/32CD32/000000?text=+)  Interaction with nature delivers measurable benefits to physical health, mental health, cognitive ability and social cohesion. It is also associated with conservation behavior such as recycling.  
 US National Parks are visited more than 300M times per year, but many non-visitors cite too little info about what to do inside and a preference for electronic activities as reasons for not visiting more.  
 In addition, only 40% of Americans consider enjoying nature an important aspect of a vacation.  
 So the objective of this Odyssee app is help making the experience of visiting a national park more fun, exciting, challenging and memorable. 
@@ -62,7 +62,7 @@ While this app should be suitable for nearly anyone visiting a park with a smart
 ![](https://placehold.it/8/32CD32/000000?text=+) 16-bit weight quantization is used to reduce the initial model size (to 45 mb) and inference time. It matches full model by 99.9%  
 ![](https://placehold.it/8/32CD32/000000?text=+) Data Augmentation used to take care of the cropped/ zoom/ rotated images.  
 ![](https://placehold.it/8/32CD32/000000?text=+) Class imbalance is handled through balanced batching and label smoothing.  
-Entire code is available [here](https://github.com/Final-Capstone-Nature-Scavenger-Hunt/odyssee-app)
+**Entire code is available** [here](https://github.com/Final-Capstone-Nature-Scavenger-Hunt/odyssee-app)
 
 ## Future Roadmap  
 ![](https://placehold.it/8/32CD32/000000?text=+) Field Testing  
