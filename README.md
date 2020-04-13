@@ -26,7 +26,8 @@ So the objective of this Odyssee app is help making the experience of visiting a
 ## Target Users
 
 While this app should be suitable for nearly anyone visiting a park with a smartphone, here are few specific target users:  
-<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/targetUsers.png" alt="OdysseeUsers" width="700px" height="350px">
+<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/targetUsers.png" alt="OdysseeUsers" width="900px" height="250px">  
+
 ![](https://placehold.it/8/32CD32/000000?text=+)  Friends' Reunion  
 ![](https://placehold.it/8/32CD32/000000?text=+)  Educational Excursion  
 ![](https://placehold.it/8/32CD32/000000?text=+)  Families Reconnecting  
