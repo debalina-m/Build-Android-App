@@ -55,12 +55,30 @@ Here is a quick [demo](https://github.com/debalina-m/Build-Android-App/blob/mast
 
 ![](https://placehold.it/8/32CD32/000000?text=+) Data taken from the more recent iNaturalist sets [2019](http://www.vision.caltech.edu/~gvanhorn/datasets/inaturalist/fgvc6_competition/) and [2018](http://www.vision.caltech.edu/~gvanhorn/datasets/inaturalist/fgvc5_competition/)  
 ![](https://placehold.it/8/32CD32/000000?text=+) Webscraping for additional image data  
-<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/data.png" alt="OdysseeData" width="600px" height="350px">
+<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/data.png" alt="OdysseeData" width="700px" height="350px">
 
-## Implementation Approach:
+## Implementation Approach
 - May be able to generate our own images by photographing sprouting seeds (i.e. use various
 beans, peas, and flower seeds as sample “crop” and “weed” plants as a training example)
 - May identify low cost peristaltic pumps for applying liquid agents (example below)
 
 
-## Future Roadmap:
+## Future Roadmap  
+![](https://placehold.it/8/32CD32/000000?text=+) Add more parks
+![](https://placehold.it/8/32CD32/000000?text=+) Expansion of hunts 
+ - e.g. wildflower expansion released in spring)  
+![](https://placehold.it/8/32CD32/000000?text=+) Geolocating hot-spots for species
+ - [“keep your eyes peeled, there are a lot of black-tailed deer in this area”]  
+![](https://placehold.it/8/32CD32/000000?text=+) Gray out items from list that are out of season  
+![](https://placehold.it/8/32CD32/000000?text=+) Selective data augmentation by image type  
+ - A pinecone may appear in any orientation but a deer or tree won’t appear upside down
+
+Field testing!
+Geolocating hot-spots for species 
+Useful for National Parks Services and can add features to gameplay
+[“keep your eyes peeled, there are a lot of black-tailed deer in this area”]
+Additional parks, expansion packs (e.g. wildflower expansion released in spring)
+Gray out items from list that are out of season
+Selective data augmentation by image type 
+A pinecone may appear in any orientation but a deer or tree won’t appear upside down
+
