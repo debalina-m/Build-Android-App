@@ -3,7 +3,7 @@
 
 ```diff
 + Gamifying exploration of the natural world
-```
+```<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/SplashScreen.png" alt="AppScreen" width="250px" height="50px">
 
 ## Proposal
 
