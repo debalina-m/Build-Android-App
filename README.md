@@ -25,14 +25,13 @@ Are you a nature enthusiast? Hiking on the trails, smelling the trees, listening
 
 ## Target Users
 
-While this app should be suitable for nearly anyone visiting a park with a smartphone, here are few specific use cases:
-```diff
-+ Friends' Reunion  
-+ Educational Excursion  
-+ Families Reconnecting 
-+ People Needing Instruction  
-+ Gamers Needing a nudge  
-```
+While this app should be suitable for nearly anyone visiting a park with a smartphone, here are few specific target users:  
+![](https://placehold.it/8/32CD32/000000?text=+)  Friends' Reunion  
+![](https://placehold.it/8/32CD32/000000?text=+)  Educational Excursion  
+![](https://placehold.it/8/32CD32/000000?text=+)  Families Reconnecting  
+![](https://placehold.it/8/32CD32/000000?text=+)  People Needing Instruction  
+![](https://placehold.it/8/32CD32/000000?text=+)  Gamers Needing a nudge  
+
 
 ## Features Odysse Offers  
 ![](https://placehold.it/8/32CD32/000000?text=+)  An immersive experience with dynamic trail maps and loc-based augmentation  
@@ -62,10 +61,9 @@ Here is a quick [demo](https://github.com/debalina-m/Build-Android-App/blob/mast
 
 ## Future Roadmap  
 ![](https://placehold.it/8/32CD32/000000?text=+) Field Testing  
-![](https://placehold.it/8/32CD32/000000?text=+) Add more parks
+![](https://placehold.it/8/32CD32/000000?text=+) Add more parks  
 ![](https://placehold.it/8/32CD32/000000?text=+) Expansion of hunts (e.g. wildflower expansion released in spring)  
 ![](https://placehold.it/8/32CD32/000000?text=+) Geolocating hot-spots for species [“keep your eyes peeled, there are a lot of black-tailed deer in this area”]  
 ![](https://placehold.it/8/32CD32/000000?text=+) Gray out items from list that are out of season  
-![](https://placehold.it/8/32CD32/000000?text=+) Selective data augmentation by image type  
-- A pinecone may appear in any orientation but a deer or tree won’t appear upside down
+![](https://placehold.it/8/32CD32/000000?text=+) Selective data augmentation by image type. [e.g. A pinecone may appear in any orientation but a deer or tree won’t appear upside down]
 
