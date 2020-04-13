@@ -26,7 +26,7 @@ So the objective of this Odyssee app is help making the experience of visiting a
 ## Target Users
 
 While this app should be suitable for nearly anyone visiting a park with a smartphone, here are few specific target users:  
-<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/targetUsers.png" alt="OdysseeUsers" width="900px" height="250px">  
+<img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/targetUsers.png" alt="OdysseeUsers" width="850px" height="220px">  
 
 ![](https://placehold.it/8/32CD32/000000?text=+)  Friends' Reunion  
 ![](https://placehold.it/8/32CD32/000000?text=+)  Educational Excursion  
@@ -58,8 +58,11 @@ While this app should be suitable for nearly anyone visiting a park with a smart
 <img src="https://github.com/Final-Capstone-Nature-Scavenger-Hunt/Nature-Scavenger-Hunt/blob/master/Media/data.png" alt="OdysseeData" width="700px" height="350px">
 
 ## Implementation Approach
-![](https://placehold.it/8/32CD32/000000?text=+) 
-
+![](https://placehold.it/8/32CD32/000000?text=+) Built on highly efficient publicly available vision model- TFHub Inception v3  
+![](https://placehold.it/8/32CD32/000000?text=+) 16-bit weight quantization is used to reduce the initial model size (to 45 mb) and inference time. It matches full model by 99.9%  
+![](https://placehold.it/8/32CD32/000000?text=+) Data Augmentation used to take care of the cropped/ zoom/ rotated images.  
+![](https://placehold.it/8/32CD32/000000?text=+) Class imbalance is handled through balanced batching and label smoothing.  
+Entire code is available [here](https://github.com/Final-Capstone-Nature-Scavenger-Hunt/odyssee-app)
 
 ## Future Roadmap  
 ![](https://placehold.it/8/32CD32/000000?text=+) Field Testing  
